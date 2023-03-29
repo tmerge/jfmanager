@@ -1,0 +1,42 @@
+﻿[
+  {
+    "date": "2022-01-06",
+    "location": "Hopsten"
+  },
+  {
+    "date": "2022-01-07",
+    "location": "Schale"
+  },
+  {
+    "date": "2022-01-08",
+    "location": "Halverde"
+  },
+  {
+    "date": "2022-01-09",
+    "location": "Balmy"
+  },
+  {
+    "date": "2022-01-10",
+    "location": "Chilly"
+  },
+  {
+    "date": "2022-01-06",
+    "location": "Freezing"
+  },
+  {
+    "date": "2022-01-07",
+    "location": "Bracing"
+  },
+  {
+    "date": "2022-01-08",
+    "location": "Freezing"
+  },
+  {
+    "date": "2022-01-09",
+    "location": "Balmy"
+  },
+  {
+    "date": "2022-01-10",
+    "location": "Chilly"
+  }
+]
